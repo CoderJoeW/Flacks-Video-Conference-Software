@@ -47,5 +47,9 @@ Create **numbers** table
 
 If you change the table names or field names make sure you update the corresponding code
 
+We also use Cron Jobs to create the numbers for our database so you will need to create a cron job to the file ***server->NETWORK->generateNumbers.php***
+
+We currently have ours set to 1min so a new number is created every minute
+
 ## Contributions ##
 This project is currently in a very early stage of development so all contributions are welcome just make sure your code works before submitting a pull request or it will be rejected
