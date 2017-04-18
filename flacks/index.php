@@ -5,6 +5,8 @@
 <title>Flacks | Video Conference Software</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+	
+<link rel="shortcut icon" href="img/favicon.ico">
 
 <link rel="stylesheet" href="css/main.css?v=0.0.1">
 
